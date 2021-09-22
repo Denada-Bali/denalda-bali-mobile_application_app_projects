@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Location"
+        android:title="Location"
+        android:icon="@drawable/ic_location" />
+    <item
+        android:id="@+id/GiftCard"
+        android:title="Gift Cart"
+        android:icon="@drawable/ic_giftcard"
+        />
+    <item
+        android:id="@+id/MyProfile"
+        android:title="My Profile"
+        android:icon="@drawable/ic_account"/>
+
+</menu>

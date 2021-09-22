@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alegreya_sc</item>
+        <item>@font/almendra_display</item>
+        <item>@font/arapey</item>
+        <item>@font/brawler</item>
+        <item>@font/bungee_inline</item>
+        <item>@font/cormorant_upright_light</item>
+        <item>@font/montserrat_subrayada</item>
+        <item>@font/new_rocker</item>
+        <item>@font/press_start_2p</item>
+        <item>@font/trade_winds</item>
+    </array>
+</resources>

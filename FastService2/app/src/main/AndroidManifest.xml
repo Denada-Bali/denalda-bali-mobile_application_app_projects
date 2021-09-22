@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.fast_service">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ANSWER_PHONE_CALLS" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Light">
+        <activity android:name=".userFoodList"></activity>
+        <activity android:name=".FoodListActivity" />
+        <activity android:name=".FirstActivity" />
+        <activity android:name=".user_LogOut" />
+        <activity android:name=".user_Fun_and_Games" />
+        <activity android:name=".SecondPage" />
+        <activity android:name=".UserSignUp" />
+        <activity android:name=".UserMainActivity" />
+        <activity android:name=".HomeActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Fun_and_Games" />
+        <activity android:name=".Seek_Bar" />
+        <activity android:name=".LogOut" />
+        <activity android:name=".FirstPage" />
+        <activity android:name=".WaiterDashboard" />
+        <activity android:name=".UserDashboard" />
+        <activity android:name=".SignUp" />
+        <activity android:name=".MainActivity" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
