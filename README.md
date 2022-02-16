@@ -21,7 +21,7 @@ The application consists of customer service in a restaurant or bar. As a start,
 The advantage of the application is that the restaurant creates a good impression in front of the customer. And the electronic menu is one of the basic points to attract a customer. To further emphasize the fact that through the application consumers can earn small bonuses for the restaurant but large for consumers.
 
 
-# App Splash Screen
+# Splash Screen
 
 ![Screenshot_1644622342](https://user-images.githubusercontent.com/86987951/153686811-16eeea0d-2a23-43da-8855-319df698d3f3.png)
 
