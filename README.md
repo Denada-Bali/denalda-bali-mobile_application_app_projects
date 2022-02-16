@@ -1,5 +1,3 @@
-# denalda-bali-mobile_application_app_projects
-
 # Name of the Application 
 I have named this app as FastService because the idea of the app is about customer service across bars or restaurants.
 
