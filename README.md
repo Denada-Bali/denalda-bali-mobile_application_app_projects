@@ -12,9 +12,9 @@ The application consists of customer service in a restaurant or bar. As a start,
 
 * So, the waiter's job is to take the order from the client he can add or remove the ordered products according to the client's wish.
 
-* The user's task is to look at the menu with the respective names and prices without the need for a menu printed on paper and also to have fun through the application playing and winning prizes and bonuses through games.
+* The user's task is to look at the menu with the respective names and prices without the need for a menu printed on paper and also to have fun through the application playing    and winning prizes and bonuses through games.
 
-*The task of the application is to play the role of an electronic menu and to entertain the user with the given bonuses in order to attract him in the future.
+* The task of the application is to play the role of an electronic menu and to entertain the user with the given bonuses in order to attract him in the future.
 
 # The Advantages for the User
 
